@@ -1,4 +1,7 @@
 [< Back](../README.md)
+
+![](logo/logo.png)
+
 ---
 
 # The Reference Model
