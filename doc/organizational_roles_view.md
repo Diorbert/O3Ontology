@@ -1,6 +1,6 @@
 [< Back](../README.md)
 
-![](logo/logo.png)
+![](../logo/logo.png)
 
 ---
 
