@@ -32,3 +32,6 @@ The following Table presents the constraints that must be observed on analyzing 
 |AXI24|	An instance of "Structural Unit Member" cannot establish a relationship "relates with" with itself.|
 |AXI25|	An instance of “Structural Business Role” cannot establish a relationship “is superior to” with someone that is transitively superior to it.|
 |AXI26|	An instance of “Missionary Business Role” cannot establish a relationship “is superior to” with someone that is transitively superior to it.|
+
+---
+[< Back](../README.md)

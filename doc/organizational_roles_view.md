@@ -37,3 +37,6 @@ The following Table presents the constraints that must be observed on analyzing 
 |AXI12|	A “Structural Business Role” inherent to a “Structural Unit” will result in a definition relationship between the organization as a whole and the business role.|
 |AXI13|	A “Missionary Business Role” inherent to a “Missionary Unit” will result in a definition relationship between the organization as a whole and the business role.|
 |AXI14|	If a social entity accepts (recognizes) a Recognition Contract then this entity must also recognize the Normative Descriptions associated with this contract.|
+
+---
+[< Back](../README.md)

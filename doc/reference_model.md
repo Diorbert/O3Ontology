@@ -26,4 +26,5 @@ Each view presents a coherent set of ontology elements which conform to a specif
 |Capability |Capabilities|
 |Resource |Resources |
 
-The following sections describe in detail each viewpoint of the reference ontology.
+---
+[< Back](../README.md)

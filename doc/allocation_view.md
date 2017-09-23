@@ -47,3 +47,6 @@ The following Table presents the constraints that must be observed on analyzing 
 |AXI16|	An employee (Formal Organization Member) can only assume a “Business Role” inherent to the “Organizational Unit” to which he/she belongs.|
 |AXI17|	An instance of "Business Role" cannot establish a relationship "covers" with itself.|
 |AXI18|	Assignments should be performed in the context of a specific “Admission” in an organization (Formal Organization), i.e., an instance of "Formal Organization Member", which was admitted by an admission a1, cannot have a related assignment with an admission a2.|
+
+---
+[< Back](../README.md)
