@@ -1,27 +1,8 @@
-# O3Ontology
+![](logo/logo.png)
 
 The industry’s need for enterprise architecture description has been supported by many approaches that include ontologies and languages (as seen in Section 2.3). Despite the alternative solutions, some approaches have specific purpose and shortcomings with consequences in precision and coverage. The OntoUML Organizational Ontology (O3) is a well-founded core ontology, built with the purpose of serving as a reference ontology for organizational definition. It is intended to support the creation of domain ontologies through the specialization of its concepts and relationships, as well as to support the analysis and revision of EA languages. 
 
-## THE REFERENCE MODEL
-
-O3 has been defined by extending the social concepts of UFO-C (highlighted in green and orange in O3’s diagrams), such as social role, social agent and physical agent. In this section we present the concepts of O3 described contextually in partial models. We discuss the ontology following the viewpoints defined in O3, namely: (i) organizational structure, (ii) allocation, (iii) organizational roles, (iv) social relationships, (v) capability, (vi) resource and (vii) business collaboration. Figure 41 presents an overview about how O3 is organized. Figure 42 details O3’s structure and its dependencies.
-
-Figura 41
-Figura 42
-
-Each view presents a coherent set of ontology elements which conform to a specific aspect of interest. The modularization adopted is based on the organizational aspects (previously defined in Section 3.1.1). The definition of each viewpoint was held by aggregating similar or complementary organizational aspects. Table 7 provides a mapping between the established viewpoints and organizational aspects addressed by it.
-
-|Viewpoint | Organizational Aspect |
-|----------|-----------------------|
-|Organizational Structure | Organizations, Organizational Working Groups, Authority, Geographical Location|
-|Organizational Roles|Organizational Roles, External Collaborations, Internal Collaborations |
-|Allocation | Organizational Roles, Organizational Members, Organizational Assignment, Geographical Location|
-|Social Relationships |Authority, Responsibility |
-|Business Collaboration|External Collaborations, Internal Collaborations |
-|Capability |Capabilities|
-|Resource |Resources |
-
-The following sections describe in detail each viewpoint of the reference ontology.
+* [Reference Model](doc/reference_model.md)
 
 ## Organizational Structure View
 
